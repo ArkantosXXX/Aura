@@ -1,0 +1,6 @@
+{
+  "name": "Aura Plan",
+  "description": "Kişisel Yaşam, Görev, Takvim, Alışkanlık, Hedef ve Odak Planlayıcı",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
